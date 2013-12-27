@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Triage app</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_patient">Add Patient</string>
+    <string name="save_state">Save State</string>
+    <string name="title_activity_add_patient">AddPatientActivity</string>
+    <string name="add_patient_title">Enter patient info</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="health_ID">Health Card Number</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="dob">Date of Birth</string>
+    <string name="attended_to">Attended_to</string>
+
+
+</resources>
