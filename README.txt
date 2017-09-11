@@ -1,4 +1,6 @@
-﻿- Login & Register:
+﻿This is an Android mobile application used by nurses and doctors to priortize between patients order in a traige given their symptoms as well as to track recurring patients. The application allows two kinds of users Nurses and Doctors of which each have separate functionality such as update medication.
+ 
+ - Login & Register:
 
 	Once the user launchs the app, it shows the Login screen that contains two blank text fields. These fields take in the user (in this implementation the nurse's) username and password. If the user doesn’t have username, just click on the register button. Then it will pop up a window that you can choose to register as nurse or physician. If you choose nurse, after login you will be ushered to Triage view. If you choose physician, you will be ushered to Search patient view. 
 
